@@ -1,0 +1,47 @@
+body
+{
+  background-image: url(https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2016/06/xpbliss_7.jpg?itok=RDRuJObj);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+p
+{
+  background-color: #006400;
+  color: white;
+  font-family: arial;
+  font-size: 18pt;
+}
+
+p:hover
+{
+  background-color: #ffffff;
+  color: black;
+}
+
+#profilePicture
+{
+  float: left;
+  width: 20%;
+}
+
+#bio
+{
+  float: right;
+  width: 80%;
+}
+
+#favSites
+{
+  float: left;
+  width: 40%;
+  text-align: center;
+}
+
+#video
+{
+  float: right;
+  width: 40%;
+  text-align: center;
+}
